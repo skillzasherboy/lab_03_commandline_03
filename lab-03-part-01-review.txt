@@ -15,8 +15,7 @@ This lab will review downloading and uncompressing files, and it will get us set
 
 Write the command that you used to do this below:
 ----------
-
-
+~
 
 ==========
 2. Prove that you're in your home directory.
